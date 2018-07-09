@@ -13,3 +13,5 @@ b) For "RegionName", when applicable, it removes every character from " (" to th
 Dataset: 'university_towns.txt'
 
 Source of Dataset: https://en.wikipedia.org/wiki/List_of_college_towns#College_towns_in_the_United_States
+
+analysis.ipynb: ipython notebook that imports the raw unstructured dataset, performs cleaning, and structuring of the data
