@@ -4,7 +4,7 @@ This code Returns a DataFrame of towns and the states they are in from the unstr
 
 DataFrame( [ ["Michigan", "Ann Arbor"], ["Michigan", "Yipsilanti"] ], columns=["State", "RegionName"] )
 
-The following cleaning needs to be done:
+The following cleaning is performed by the code:
 
 a) For "State", it removes characters from "[" to the end.
 
