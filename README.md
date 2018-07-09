@@ -1,6 +1,8 @@
 # unstructured_data_university_towns
 
-This code Returns a DataFrame of towns and the states they are in from the university_towns.txt list. The format of the DataFrame should be:DataFrame( [ ["Michigan", "Ann Arbor"], ["Michigan", "Yipsilanti"] ], columns=["State", "RegionName"] )
+This code Returns a DataFrame of towns and the states they are in from the unstructured university_towns.txt dataset. The format of the final cleaned dataFrame is in the form:
+
+DataFrame( [ ["Michigan", "Ann Arbor"], ["Michigan", "Yipsilanti"] ], columns=["State", "RegionName"] )
 
 The following cleaning needs to be done:
 
